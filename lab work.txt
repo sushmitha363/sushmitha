@@ -1,0 +1,75 @@
+16-1-18
+======================================================
+Install the following
+Anaconda
+conda update scipy
+conda update pandas
+conda update numpy
+conda update scikit-learn 
+conda update matplotlib
+
+Anaconda - framework that runs IPython, Jupyter notebook, and allows to install following modules to work with python.
+SciPy - contains modules for optimization, linear algebra, integration, interpolation, special functions, FFT, signal and image processing, ODE solvers and other tasks common in science and engineering.
+pandas - Python data analysis library, including structures such as dataframes.
+numpy - mainly useful for its N-dimensional array objects.
+scikit-learn - the machine learning algorithms used for data analysis and data mining tasks.
+matplotlib - 2D plotting library producing publication quality figures.
+Seaborn - is a data visualization library based on matplotlib. 
+
+all codes are available for machine learning algorithms in the following location of our system after scikit-learn installed
+C:\ProgramData\Anaconda3\pkgs\scikit-learn-0.19.1-py36hb0057d7_0\Lib\site-packages\sklearn
+
+panda data structure
+http://pandas.pydata.org/pandas-docs/stable/10min.html
+http://pandas.pydata.org/pandas-docs/stable/dsintro.html#dsintro
+https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.fillna.html
+
+Data pre-processing
+https://machinelearningmastery.com/prepare-data-machine-learning-python-scikit-learn/
+http://pandas.pydata.org/pandas-docs/stable/missing_data.html
+
+Machine learning codes
+https://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html
+https://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html/2
+
+Practice: Mean, Median, Mode, Variance, Standard deviation, z score
+
+Linear regression
+http://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/scikit-learn/scikit-learn-linear-reg.ipynb
+
+17-1-18
+============================================================
+KNN with iris dataset
+https://www.datacamp.com/community/tutorials/preprocessing-in-data-science-part-1-centering-scaling-and-knn
+http://nbviewer.jupyter.org/github/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb
+http://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/scikit-learn/scikit-learn-intro.ipynb
+https://github.com/justmarkham/scikit-learn-videos/blob/master/05_model_evaluation.ipynb
+
+kmeans
+https://github.com/donnemartin/data-science-ipython-notebooks/blob/master/scikit-learn/scikit-learn-k-means.ipynb
+https://github.com/jakevdp/sklearn_pycon2015/blob/master/notebooks/04.2-Clustering-KMeans.ipynb
+
+Bayes theorem
+https://jakevdp.github.io/PythonDataScienceHandbook/05.05-naive-bayes.html
+http://allendowney.blogspot.in/2016/03/ive-been-busy-with-other-projects-so-i.html
+
+SVM
+https://github.com/donnemartin/data-science-ipython-notebooks/blob/master/scikit-learn/scikit-learn-svm.ipynb
+https://github.com/jakevdp/sklearn_pycon2015/blob/master/notebooks/03.1-Classification-SVMs.ipynb
+
+Random forrest
+https://github.com/donnemartin/data-science-ipython-notebooks/blob/master/scikit-learn/scikit-learn-random-forest.ipynb
+
+dimensionality reduction
+https://github.com/donnemartin/data-science-ipython-notebooks/blob/master/scikit-learn/scikit-learn-pca.ipynb
+https://github.com/jakevdp/sklearn_pycon2015/blob/master/notebooks/04.1-Dimensionality-PCA.ipynb
+
+search any algorithm like: regression ipython notebook in google. you will get notebook
+ipython workout notebooks for various libraries
+https://github.com/donnemartin/data-science-ipython-notebooks
+https://github.com/donnemartin/data-science-ipython-notebooks/tree/master/scikit-learn
+https://github.com/donnemartin/data-science-ipython-notebooks/blob/master/scikit-learn/scikit-learn-validation.ipynb
+
+https://machinelearningmastery.com/implement-simple-linear-regression-scratch-python/
+
+average is relative. it is based on the data what u have now
